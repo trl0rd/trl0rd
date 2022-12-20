@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trl0rd
-- 👀 I’m interested inweb development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on cool web projects based on mern stack
 - 📫 reach me through my e-mail 
